@@ -32,8 +32,6 @@ You can download the precompiled executable for Linux from the [Releases](https:
 
 Before running the executable, make sure it has the right permissions:
 
-/bin/bash
-
 chmod +x Hack_suite
 
 ./Hack_suite
