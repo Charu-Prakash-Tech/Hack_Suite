@@ -12,13 +12,13 @@ HackSuite will continue to evolve, with more hacking and penetration testing fea
 
 ## Download the Executable
 
-You can download the precompiled executable for Linux from the [Releases](https://github.com/Charu-Prakash-Tech/HackSuite) section.
+You can download the precompiled executable for Linux from the [Releases](https://github.com/Charu-Prakash-Tech/Hack_Suite) section.
 
 ### Available Version
 - **Linux**: `Hack_suite` (for Linux users).
 
 ### Download Instructions
-1. Go to the [Releases page](https://github.com/Charu-Prakash-Tech/HackSuite/).
+1. Go to the [Releases page](https://github.com/Charu-Prakash-Tech/Hack_Suite).
 2. Choose the `Hack_suite` file for Linux.
 3. Download the executable to your system.
 
@@ -26,7 +26,7 @@ You can download the precompiled executable for Linux from the [Releases](https:
 
 ### Step 1: Download the Executable
 
-1. Download the `Hack_suite` executable for Linux from the [Releases](https://github.com/Charu-Prakash-Tech/HackSuite/) section.
+1. Download the `Hack_suite` executable for Linux from the [Releases](https://github.com/Charu-Prakash-Tech/Hack_Suite) section.
 
 ### Step 2: Give the Executable Permission
 
